@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+mysql-connector-python
+requests
+python-dotenv
+mindee
+reportlab
+pypdf
+python-docx
+pdfrw
+bcrypt
+PyJWT

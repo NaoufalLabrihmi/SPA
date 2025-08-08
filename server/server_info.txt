@@ -1,0 +1,4 @@
+HR SERVER : 212.132.126.8
+Pass : FreeSyria2024
+
+ssh -i hr_server_key.pem root@212.132.126.8
